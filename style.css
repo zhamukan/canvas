@@ -1,0 +1,90 @@
+body {
+    background-color: #284b58;
+    color: #ffffff;
+    font-family: LatoWeb, "Lato Extended", Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a {
+    color: #ffffff;
+}
+
+.container {
+    width: 362px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+
+.logo-container {
+    width: 100px;
+    margin-bottom: 20px;
+}
+
+.logo {
+    max-width: 100%;
+}
+
+.email-container, .password-container {
+    margin-bottom: 20px;
+}
+
+.email-input, .password-input {
+    width: 338px;
+    height: 20px;
+    margin-top: 6px;
+    padding: 8px 12px;
+    border: 0px;
+}
+
+.login-button-container {
+    display: flex;
+    width: 100%;
+}
+
+.left, .right {
+    width: 50%;
+}
+
+.stay-signed-in-container {
+    margin-bottom: 20px;
+}
+
+.checkbox-container {
+    margin-bottom: 10px;
+}
+
+.checkbox {
+    height: 12px;
+    margin: 0px;
+}
+
+.stay-signed-in-label {
+    font-size: 12px;
+}
+
+.login-button {
+    background-color: #384b58;
+    border: 1px solid white;
+    color: white;
+    padding: 4px 8px;
+    cursor: pointer;
+    border-radius: .175rem;
+    width: 115px;
+    height: 32px;
+    float: right;
+}
+
+.footer-container {
+    display: block;
+    font-size: 9px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.footer-logo {
+    height: 10px;
+}
+
+.footer-logo-container {
+    margin-top: 15px;
+}
